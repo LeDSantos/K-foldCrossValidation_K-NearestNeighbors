@@ -1,0 +1,865 @@
+Detalhes do processo de treinamento
+
+Analisando: Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
+
+MENORES PARA NORMALIZAR
+0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.078000	21.000000	
+MAIORES PARA NORMALIZAR
+17.000000	199.000000	122.000000	99.000000	846.000000	67.099998	2.420000	81.000000	
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 0
+CONJUNTO DE TREINO: fold 1	fold 2	fold 3	fold 4	fold 5	fold 6	fold 7	fold 8	fold 9	
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+	+	-	
++	15	5
+-	12	45
+Acuracia: 0.7792207599	Rev: 0.7500000000	Prec: 0.5555555820
+F1: 0.6382979155
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 1
+CONJUNTO DE TREINO: fold 2	fold 3	fold 4	fold 5	fold 6	fold 7	fold 8	fold 9	fold 0	
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+	+	-	
++	19	9
+-	8	41
+Acuracia: 0.7792207599	Rev: 0.6785714030	Prec: 0.7037037015
+F1: 0.6909090877
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 2
+CONJUNTO DE TREINO: fold 3	fold 4	fold 5	fold 6	fold 7	fold 8	fold 9	fold 0	fold 1	
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+	+	-	
++	13	10
+-	14	40
+Acuracia: 0.6883116961	Rev: 0.5652173758	Prec: 0.4814814925
+F1: 0.5199999809
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 3
+CONJUNTO DE TREINO: fold 4	fold 5	fold 6	fold 7	fold 8	fold 9	fold 0	fold 1	fold 2	
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+	+	-	
++	15	9
+-	12	41
+Acuracia: 0.7272727489	Rev: 0.6250000000	Prec: 0.5555555820
+F1: 0.5882353187
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 4
+CONJUNTO DE TREINO: fold 5	fold 6	fold 7	fold 8	fold 9	fold 0	fold 1	fold 2	fold 3	
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+	+	-	
++	18	10
+-	9	40
+Acuracia: 0.7532467246	Rev: 0.6428571343	Prec: 0.6666666865
+F1: 0.6545454860
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 5
+CONJUNTO DE TREINO: fold 6	fold 7	fold 8	fold 9	fold 0	fold 1	fold 2	fold 3	fold 4	
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+	+	-	
++	12	9
+-	15	41
+Acuracia: 0.6883116961	Rev: 0.5714285970	Prec: 0.4444444478
+F1: 0.5000000000
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 6
+CONJUNTO DE TREINO: fold 7	fold 8	fold 9	fold 0	fold 1	fold 2	fold 3	fold 4	fold 5	
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+	+	-	
++	18	3
+-	9	47
+Acuracia: 0.8441558480	Rev: 0.8571428657	Prec: 0.6666666865
+F1: 0.7500000000
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 7
+CONJUNTO DE TREINO: fold 8	fold 9	fold 0	fold 1	fold 2	fold 3	fold 4	fold 5	fold 6	
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+	+	-	
++	18	10
+-	9	40
+Acuracia: 0.7532467246	Rev: 0.6428571343	Prec: 0.6666666865
+F1: 0.6545454860
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 8
+CONJUNTO DE TREINO: fold 9	fold 0	fold 1	fold 2	fold 3	fold 4	fold 5	fold 6	fold 7	
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+DIABETICO-> errou
+NORMAL-> acertou
+	+	-	
++	10	11
+-	16	39
+Acuracia: 0.6447368264	Rev: 0.4761904776	Prec: 0.3846153915
+F1: 0.4255319238
+
+-----------------------------------------------------------
+CONJUNTO DE TESTE fold: 9
+CONJUNTO DE TREINO: fold 0	fold 1	fold 2	fold 3	fold 4	fold 5	fold 6	fold 7	fold 8	
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+NORMAL-> errou
+DIABETICO-> acertou
+DIABETICO-> acertou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+DIABETICO-> errou
+NORMAL-> acertou
+	+	-	
++	12	7
+-	14	43
+Acuracia: 0.7236841917	Rev: 0.6315789223	Prec: 0.4615384638
+F1: 0.5333333015
