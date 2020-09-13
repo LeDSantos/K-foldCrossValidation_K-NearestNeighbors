@@ -1,6 +1,6 @@
-/*Letícia dos Santos    275604
+/*Letícia dos Santos
 
-INF01017 - Aprendizado de Máquina (2020/1)
+Aprendizado de Máquina
 Exercício sobre Validação Cruzada
 
 Biblioteca da lista duplamente encadeada que guarda:
